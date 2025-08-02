@@ -1,0 +1,11 @@
+{
+	"choices": [
+		{
+			"index": 0,
+			"message": {
+				"content": "Hi, I am a NUTRITION.ai agent. How can I help you with your nutrition needs today?",
+				"role": "assistant"
+			}
+		}
+	]
+}
